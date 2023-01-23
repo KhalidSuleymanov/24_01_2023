@@ -1,0 +1,14 @@
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\bin\Debug\netcoreapp3.1\MyHomeTask24.exe
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\bin\Debug\netcoreapp3.1\MyHomeTask24.deps.json
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\bin\Debug\netcoreapp3.1\MyHomeTask24.runtimeconfig.json
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\bin\Debug\netcoreapp3.1\MyHomeTask24.runtimeconfig.dev.json
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\bin\Debug\netcoreapp3.1\MyHomeTask24.dll
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\bin\Debug\netcoreapp3.1\MyHomeTask24.pdb
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.csproj.AssemblyReference.cache
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.AssemblyInfoInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.AssemblyInfo.cs
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.dll
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.pdb
+C:\Users\Khalid Suleymanov\source\repos\MyHomeTask24\MyHomeTask24\obj\Debug\netcoreapp3.1\MyHomeTask24.genruntimeconfig.cache
